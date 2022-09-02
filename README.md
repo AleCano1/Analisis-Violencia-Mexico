@@ -12,8 +12,8 @@ The main reason is that as a professional and a human I clearly observed an incr
 
 **1)** Was there a change in violence in Mexico between 2019 and 2020?
 
-**2)** In which way is the most popular violence? 
+**2)** In which way was the most popular violence? 
 
-**3)** When is the most violence (Month)?
+**3)** When was the most violence (Month)?
 
-**4)** Which are the states with the most violence in 2019 and 2020?
+**4)** Which were the states with the most violence in 2019 and 2020?
