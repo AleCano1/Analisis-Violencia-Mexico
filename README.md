@@ -17,3 +17,11 @@ The main reason is that as a professional and a human I clearly observed an incr
 **3)** When was the most violence (Month)?
 
 **4)** Which were the states with the most violence in 2019 and 2020?
+
+## Technologies and tools
+
+Using power BI desktop, there were possible analyze the violence in Mexico during the year 2020.
+
+## Results
+
+According to the image is possible to observe that the most popular violence in 2020, was the stole violence, also we can observe that the State with Major total Violence was Oaxaca with 55,958 reports, second was Puebla with 21, 266 reports, and third was Veracruz with 20,972 reports in total.
