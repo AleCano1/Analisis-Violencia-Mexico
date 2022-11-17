@@ -24,4 +24,6 @@ Using power BI desktop, there were possible analyze the violence in Mexico durin
 
 ## Results
 
+<img width="609" alt="Violencia2020" src="https://user-images.githubusercontent.com/96165500/202328397-b763e691-527f-4eba-ad4c-313b296c84ce.png">
+
 According to the image is possible to observe that the most popular violence in 2020, was the stole violence, also we can observe that the State with Major total Violence was Oaxaca with 55,958 reports, second was Puebla with 21, 266 reports, and third was Veracruz with 20,972 reports in total.
